@@ -1,0 +1,2 @@
+BUILD_ROOTFS_REPOSITORY_BASENAME: rootfs-clean-build
+MAKEFILE_FILENAME: frustrato/Makefile

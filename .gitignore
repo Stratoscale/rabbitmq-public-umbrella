@@ -35,9 +35,11 @@
 /rabbitmq-web-dispatch/
 /rabbitmq-web-stomp-examples/
 /rabbitmq-web-stomp/
+/rabbitmq_autocluster_consul/
 /sockjs-erlang-wrapper/
 /toke/
 /webmachine-wrapper/
+/build/
 eleveldb*
 msg_store*
 tmp/*
