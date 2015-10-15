@@ -11,7 +11,7 @@ umbrella:
 .PHONY: autocluster
 autocluster: umbrella
 	git clone https://github.com/Stratoscale/rabbitmq-autocluster.git rabbitmq_autocluster_consul
-	cd rabbitmq_autocluster_consul && git checkout 8cb0a67dff05efe321ea6ad5e914a8f922f787d7
+	cd rabbitmq_autocluster_consul && git checkout 06e62fa7addea99c03091fd4b882c6add350fe15
 	make -C rabbitmq_autocluster_consul
 
 .PHONY: submit
